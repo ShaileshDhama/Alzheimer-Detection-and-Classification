@@ -26,7 +26,7 @@ MRI Comparisons of Demented &amp; Non-Demented Patients
     Everyone is right-handed.
     72 of the subjects were grouped as 'Nondemented' throughout the study.
     64 of the subjects were grouped as 'Demented' at the time of their initial visits and remained so throughout the study.
-    14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a              later visit. These fall under the 'Converted' category.
+    14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a later visit. These fall under the 'Converted' category.
 
 ### 1.Analytic Approach :
 
