@@ -1,4 +1,4 @@
-# Alzheimer-Detection-and-Classification
+# "Detection of Early Onset Alzheimer' Disease using Classifiers
 
 ##### INTRODUCTION:
 
