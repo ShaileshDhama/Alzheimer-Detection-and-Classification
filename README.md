@@ -1,7 +1,7 @@
 # Detection of Early Onset Alzheimer' Disease using Classifiers
 ## MRI Comparisons of Demented &amp; Non-Demented Patients
 
-**Authors**: SHAILESH DHAMA
+**Author** : SHAILESH DHAMA
 
 Alzheimers Disease also called as Senile Dementia is a progressive disease that destroys memory and other important mental functions. It causes brain cells to degenerate and die. There'll be continuous decline in thinking, behavioral and social skills that disrupts a person's ability to function independently.The early signs of the disease may be forgetting recent events or conversations. As the disease progresses, a person with Alzheimer's disease will develop severe memory impairment and lose the ability to carry out everyday tasks.
 
@@ -47,22 +47,36 @@ At first, a person with Alzheimer's disease may be aware of having difficulty wi
 
         Classification models are implemented, resulting in the best accuracy by Adaboost and Random Forest models.
         
-## Results
+## RESULTS :
 
-#### Visual 1
-![graph1](./images/visual1.png)
-> Sentence about visualization.
+#### Correlation Matrix
+![Correlation Matrix](./ALZ_1.png)
 
-#### Visual 2
-![graph2](./images/visual2.png)
-> Sentence about visualization.
+#### Feature Importance-Random Forest
+![Random Forest](./ALZ_5.png)
 
+#### Feature Importance-Extra Trees
+![Extra Trees](./ALZ_6.png)
+
+#### Feature Importance-AdaBoost
+![AdaBoost](./ALZ_7.png)
+
+#### Feature Importance-Gradient Boosting
+![Gradient Boosting](./ALZ_8.png)
+
+#### Feature Importance-Xgboost
+![Xgboost](./ALZ_9.png)
+
+#### Feature Importance-Mean_BarPlots
+![Mean_BarPlots](./ALZ_10.png)
+
+#### Accuracy of Models
+![Accuracy](./ALZ_4.png)
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./main_notebook.ipynb) or review our [presentation](./SampleProjectSlides.pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./alzheimer-detection-and-classification.ipynb)
 
 For any additional questions, please contact **shaileshettyd@gmail.com)
-
 
 ##### Repository Structure:
 
@@ -70,10 +84,21 @@ Here is where you would describe the structure of your repoistory and its conten
 
 ```
 
-├── README.md                       <- The top-level README for reviewers of this project.
-├── main_notebook.ipynb             <- narrative documentation of analysis in jupyter notebook
-├── presentation.pdf                <- pdf version of project presentation
-└── images
-    └── images                          <- both sourced externally and generated from code
+├── README.md                                               <- The top-level README for reviewers of this project.
+├── alzheimer-detection-and-classification.ipynb            <- narrative documentation of analysis in jupyter notebook
+├── oasis_cross-sectional.csv & oasis_longitudinal.csv      <- datasets
+└── images                                                  <- both sourced externally and generated from code
 
+```
+## Citing
+
+```
+@misc{Shailesh:2019,
+  Author = {Shailesh Dhama},
+  Title = {Detection of Early Onset Alzheimer' Disease using Classifiers},
+  Year = {2019},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/ShaileshDhama/Alzheimer-Detection-and-Classification}}
+}
 ```
