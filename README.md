@@ -56,19 +56,19 @@ At first, a person with Alzheimer's disease may be aware of having difficulty wi
 ![Random Forest](./ALZ_5.png)
 
 #### Feature Importance-Extra Trees
-![Extra Trees](./ALZ_6.png)
+![Extra Trees](./ALZ_6.PNG)
 
 #### Feature Importance-AdaBoost
-![AdaBoost](./ALZ_7.png)
+![AdaBoost](./ALZ_7.PNG)
 
 #### Feature Importance-Gradient Boosting
-![Gradient Boosting](./ALZ_8.png)
+![Gradient Boosting](./ALZ_8.PNG)
 
 #### Feature Importance-Xgboost
-![Xgboost](./ALZ_9.png)
+![Xgboost](./ALZ_9.PNG)
 
 #### Feature Importance-Mean_BarPlots
-![Mean_BarPlots](./ALZ_10.png)
+![Mean_BarPlots](./ALZ_10.PNG)
 
 #### Accuracy of Models
 ![Accuracy](./ALZ_4.png)
