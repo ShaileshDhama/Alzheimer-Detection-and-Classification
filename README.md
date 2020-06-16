@@ -45,7 +45,7 @@ At first, a person with Alzheimer's disease may be aware of having difficulty wi
 
     ### 5. Modelling and Evaluation:
 
-        Classification Models are implemented and Accuracy Comparison is done,which concluded that Adaboost and Random Forest Models tops        the other models.
+        Classification models are implemented, resulting in the best accuracy by Adaboost and Random Forest models.
         
 ## Results
 
