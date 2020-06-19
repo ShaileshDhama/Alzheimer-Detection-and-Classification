@@ -80,8 +80,6 @@ For any additional questions, please contact **shaileshettyd@gmail.com)
 
 ##### Repository Structure:
 
-Here is where you would describe the structure of your repoistory and its contents, for exampe:
-
 ```
 
 ├── README.md                                               <- The top-level README for reviewers of this project.
